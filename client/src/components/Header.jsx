@@ -19,7 +19,7 @@ const Header = () => {
 
           <p className="mb-8 max-w-md">Your journey into the modern web begins right here</p>
           <button className="border border-gray-500 rounded-full px-8 py-2.5
-          hover:bg-gray-100">Get Started</button>
+          hover:bg-gray-100 bg-sky-500 hover:bg-sky-700">Get Started</button>
     </div>
   )
 }
